@@ -7,12 +7,16 @@
     "index.js"
   ],
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "release": "release-it"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "global": "^4.4.0",
     "np": "^7.5.0"
+  },
+  "devDependencies": {
+    "release-it": "^14.11.7"
   }
 }
