@@ -1,1 +1,1 @@
-export const today = new Date().getDay();
+export const todayDay = new Date().getDay();
